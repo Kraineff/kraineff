@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Make a convenient and functional website
 
+### Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=xmrvizzy&&show_icons=true" alt="xmrvizzy" />
+
 ### Connect with me:
 
 [<img align="left" alt="Faithful Team | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
