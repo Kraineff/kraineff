@@ -8,6 +8,7 @@
 
 ### Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=xmrvizzy&&show_icons=true" alt="xmrvizzy" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmrvizzy&theme=light&hide_langs_below=1" height="195px" />
 
 ### Connect with me:
 
