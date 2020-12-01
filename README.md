@@ -9,10 +9,6 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Make a convenient and functional website
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="xMrVizzy Spotify Playing" width="350" />](https://open.spotify.com/user/jftqi5anyun35n6td74t4mvez)
-
 ### Connect with me:
 
 [<img align="left" alt="Faithful Team | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
