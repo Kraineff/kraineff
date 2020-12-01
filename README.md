@@ -1,9 +1,6 @@
-### Hi there, I'm Alexey Krainev 👋
-
-[![Website](https://img.shields.io/website?label=faithful.team&style=for-the-badge&url=https%3A%2F%2Ffaithful.team)](https://faithful.team)
-[![Twitter Follow](https://img.shields.io/twitter/follow/xMrVizzy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FxMrVizzy&screen_name=xMrVizzy)
-
-## I'm a Pixel Artist, Developer, and Translator!
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Alexey</h1>
+<h3 align="center">Pixel Artist, Developer, and Translator</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xmrvizzy" alt="xmrvizzy" /> </p>
 
 - 🔭 I’m currently working on: [Faithful][website]!
 - 🌱 I’m currently learning everything 🤣
