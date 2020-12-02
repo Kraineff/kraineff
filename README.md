@@ -10,9 +10,6 @@
 <a href="https://github.com/xmrvizzy">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xmrvizzy&show_icons=true&theme=light&line_height=27" height="200px"/>
 </a>
-<a href="https://github.com/xmrvizzy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmrvizzy&theme=light&hide_langs_below=1" height="200px" />
-</a>
 
 ### Connect with me:
 
